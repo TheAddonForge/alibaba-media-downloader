@@ -86,16 +86,6 @@ Alibaba Downloader Pro was created to simplify the process of collecting product
 
 ---
 
-## ⚡ Installation
-**[Chrome Web Store](https://chromewebstore.google.com/detail/alibaba-media-downloader/opbecmocliofeeooopdodcneelbconmp?authuser=0&hl=en-GB)**.  
-
-For manual installation (dev mode):  
-1. Clone this repo.  
-2. Build using `npm run build`.  
-3. Load the `dist/` folder into Chrome (Extensions > Developer Mode > Load Unpacked).  
-
----
-
 ## 📝 License
 MIT License – free to use and modify.  
 
