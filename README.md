@@ -17,33 +17,38 @@
 
 ## 📸 Screenshots
 
-* **Extension Popup:** A clear screenshot of the main popup UI when a user clicks the add-on icon.
+### 🔹 Popup Overview
+* **Main Popup UI** when a user clicks the add-on icon.
+  
+![Popup Window](docs/screenshots/extension_popup.png)
 
-    ![Alibaba Media Downloader Pro popup window](<screenshot_1.png>)
+---
 
-* **Image Previews:** A screenshot showing the image preview feature in the popup.
+### 🔹 Product Media Previews
+* Example showing product images and videos detected on an Alibaba product page.
 
-    ![Alibaba Media Downloader Pro popup showing image previews](<screenshot_2.png>)
+![Product Media Page](docs/screenshots/main_product_page.png)
 
-* **Download in Action:** A screenshot of the browser's download manager or a notification showing a `.zip` file being downloaded.
+---
 
-    ![Web browser downloading a zip file](<screenshot_3.png>)
+### 🔹 Download Options
+* **Save All (Images + Videos)**  
+![Save All](docs/screenshots/save_all_images_videos.png)
 
-* **Another Screenshot:**
+* **Save Images Only**  
+![Save Images](docs/screenshots/save_images.png)
 
-    ![Another descriptive screenshot](<screenshot_4.png>)
-
-* **Final Screenshot:**
-
-    ![Final descriptive screenshot](<screenshot_5.png>)
+* **Save Videos Only**  
+![Save Videos](docs/screenshots/save_videos.png)
 
 ---
 
 ## 🎬 Video Demo
 
+### 📺 Walkthrough: Downloading Alibaba Videos & Images
 A brief video showcasing the add-on's features and how it works.
 
-[How to Download Alibaba Videos from the Website](https://www.youtube.com/watch?v=AJiSXmuzv0c)
+[![How to Download Alibaba Videos from the Website](https://img.youtube.com/vi/AJiSXmuzv0c/0.jpg)](https://www.youtube.com/watch?v=AJiSXmuzv0c)
 
 ---
 
