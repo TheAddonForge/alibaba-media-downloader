@@ -18,37 +18,48 @@
 ## 📸 Screenshots
 
 ### 🔹 Popup Overview
-* **Main Popup UI** when a user clicks the add-on icon.
-  
-![Popup Window](docs/screenshots/extension_popup.png)
+<figure>
+  <img src="docs/screenshots/extension_popup.png" alt="Popup Window" width="400">
+  <figcaption><b>Popup Window:</b> The add-on popup when clicked.</figcaption>
+</figure>
 
 ---
 
 ### 🔹 Product Media Previews
-* Example showing product images and videos detected on an Alibaba product page.
-
-![Product Media Page](docs/screenshots/main_product_page.png)
+<figure>
+  <img src="docs/screenshots/main_product_page.png" alt="Product Media Page" width="400">
+  <figcaption><b>Product Media:</b> Images and videos detected on an Alibaba product page.</figcaption>
+</figure>
 
 ---
 
 ### 🔹 Download Options
-* **Save All (Images + Videos)**  
-![Save All](docs/screenshots/save_all_images_videos.png)
+<figure>
+  <img src="docs/screenshots/save_all_images_videos.png" alt="Save All" width="300">
+  <figcaption><b>Save All:</b> Download both images and videos in one ZIP file.</figcaption>
+</figure>
 
-* **Save Images Only**  
-![Save Images](docs/screenshots/save_images.png)
+<figure>
+  <img src="docs/screenshots/save_images.png" alt="Save Images" width="300">
+  <figcaption><b>Save Images:</b> Download product images only.</figcaption>
+</figure>
 
-* **Save Videos Only**  
-![Save Videos](docs/screenshots/save_videos.png)
+<figure>
+  <img src="docs/screenshots/save_videos.png" alt="Save Videos" width="300">
+  <figcaption><b>Save Videos:</b> Download product videos only.</figcaption>
+</figure>
 
 ---
 
 ## 🎬 Video Demo
 
 ### 📺 Walkthrough: Downloading Alibaba Videos & Images
-A brief video showcasing the add-on's features and how it works.
-
-[![How to Download Alibaba Videos from the Website](https://img.youtube.com/vi/AJiSXmuzv0c/0.jpg)](https://www.youtube.com/watch?v=AJiSXmuzv0c)
+<figure>
+  <a href="https://www.youtube.com/watch?v=AJiSXmuzv0c">
+    <img src="https://img.youtube.com/vi/AJiSXmuzv0c/0.jpg" alt="YouTube Demo" width="480">
+  </a>
+  <figcaption><b>Video Demo:</b> Step-by-step guide showing how to use the extension.</figcaption>
+</figure>
 
 ---
 
