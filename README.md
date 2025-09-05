@@ -2,7 +2,7 @@
 
 🚀 **Alibaba Downloader Pro** is a free Chrome Extension that lets you **easily download images and videos** from Alibaba product pages — all in one click. Save product media into neatly organized **ZIP files** for faster workflow, research, or offline use.  
 
-👉 [Install from Chrome Web Store](#) *(link coming soon)*  
+👉 [Install from Chrome Web Store](https://chromewebstore.google.com/detail/alibaba-media-downloader/opbecmocliofeeooopdodcneelbconmp?authuser=0&hl=en-GB) 
 
 ---
 
