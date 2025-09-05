@@ -16,7 +16,34 @@
 ---
 
 ## 📸 Screenshots
-*(add your extension popup + preview screenshots here)*  
+
+* **Extension Popup:** A clear screenshot of the main popup UI when a user clicks the add-on icon.
+
+    ![Alibaba Media Downloader Pro popup window](<screenshot_1.png>)
+
+* **Image Previews:** A screenshot showing the image preview feature in the popup.
+
+    ![Alibaba Media Downloader Pro popup showing image previews](<screenshot_2.png>)
+
+* **Download in Action:** A screenshot of the browser's download manager or a notification showing a `.zip` file being downloaded.
+
+    ![Web browser downloading a zip file](<screenshot_3.png>)
+
+* **Another Screenshot:**
+
+    ![Another descriptive screenshot](<screenshot_4.png>)
+
+* **Final Screenshot:**
+
+    ![Final descriptive screenshot](<screenshot_5.png>)
+
+---
+
+## 🎬 Video Demo
+
+A brief video showcasing the add-on's features and how it works.
+
+[How to Download Alibaba Videos from the Website](https://www.youtube.com/watch?v=AJiSXmuzv0c)
 
 ---
 
