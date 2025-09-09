@@ -86,5 +86,14 @@ Alibaba Downloader Pro was created to simplify the process of collecting product
 
 ---
 
+## 📝 License
+© 2025 The Addon Forge. All rights reserved.  
+
+This repository contains documentation and assets for **Alibaba Downloader Pro**.  
+The source code for the extension is proprietary and not covered by an open-source license.  
+Usage, copying, or redistribution is not permitted without explicit permission.
+
+---
+
 ## 📢 Keywords (SEO)
 Alibaba downloader, Alibaba image downloader, Alibaba video downloader, Alibaba ZIP export, Chrome extension for Alibaba, download Alibaba product media
