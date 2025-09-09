@@ -86,10 +86,5 @@ Alibaba Downloader Pro was created to simplify the process of collecting product
 
 ---
 
-## 📝 License
-MIT License – free to use and modify.  
-
----
-
 ## 📢 Keywords (SEO)
 Alibaba downloader, Alibaba image downloader, Alibaba video downloader, Alibaba ZIP export, Chrome extension for Alibaba, download Alibaba product media
