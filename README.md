@@ -73,11 +73,9 @@
 ---
 
 ## 🔗 Support the Developer
-This project is free to use. To support development, we may show an **ad link** after download.  
-Clicking it helps keep the extension free ❤️  
 
-If you'd like to support ongoing development, consider buying me a coffee:  
-👉 [Click to Support](https://ko-fi.com/prablordeppey) ❤️
+This extension is free to use. To help keep it free, we may show an occasional sponsored link after downloads — clicking it supports ongoing development ❤️
+Prefer to support directly? <a href="https://ko-fi.com/prablordeppey" target="_blank" rel="noopener noreferrer">Buy me a coffee on Ko-fi</a>.
 
 ---
 
