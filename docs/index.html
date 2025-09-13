@@ -44,13 +44,28 @@
       font-size: 0.9rem;
       color: #777;
     }
+    .buttons {
+      display: flex;
+      justify-content: center;
+      gap: 1rem;
+      flex-wrap: wrap;
+    }
   </style>
 </head>
 <body>
   <header>
     <h1>Alibaba Downloader Pro</h1>
-    <p>The easiest way to download product images & videos from Alibaba.</p>
-    <a href="https://chromewebstore.google.com/detail/alibaba-media-downloader/opbecmocliofeeooopdodcneelbconmp?pli=" class="btn">➕ Install from Chrome Web Store</a>
+    <p>The easiest way to download product images &amp; videos from Alibaba.</p>
+    <div class="buttons">
+      <a href="https://chromewebstore.google.com/detail/alibaba-media-downloader/opbecmocliofeeooopdodcneelbconmp?pli=" 
+         class="btn" target="_blank" rel="noopener noreferrer">
+        ➕ Install from Chrome Web Store
+      </a>
+      <a href="https://addons.mozilla.org/en-US/firefox/addon/alibaba-media-downloader-pro/" 
+         class="btn" target="_blank" rel="noopener noreferrer">
+        ➕ Install from Firefox Web Store
+      </a>
+    </div>
   </header>
 
   <section>
