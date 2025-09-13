@@ -76,6 +76,9 @@
 This project is free to use. To support development, we may show an **ad link** after download.  
 Clicking it helps keep the extension free ❤️  
 
+If you'd like to support ongoing development, consider buying me a coffee:  
+👉 [Click to Support](https://ko-fi.com/prablordeppey) ❤️
+
 ---
 
 ## 📄 About
